@@ -1,4 +1,8 @@
 <?php
+// phpinfo();
+?>
+
+<?php
 // متغيرات
 $tital = "Mohammed Alattas";
 $num = 10;
